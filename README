@@ -1,0 +1,7 @@
+LanDyn is an R library of miscillaneous functions I have found useful for processing rasters and other geospatial objects.  Some functions are simple elaborations of functions in R's core, while others are new functions for performing spatial pattern analysis.
+
+# If you don't have it yet, install 'devtools':
+install.packages('devtools')
+# Now install LanDyn
+devtools::install_github('bjornbrooks/LanDyn')
+# Refer to the manual for useful demos and vignettes. Then explore and enjoy!
